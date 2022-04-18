@@ -1,0 +1,14 @@
+D:\Desktop\Media_de_Quatro_Notas\bin\Debug\netcoreapp3.1\Media_de_Quatro_Notas.exe
+D:\Desktop\Media_de_Quatro_Notas\bin\Debug\netcoreapp3.1\Media_de_Quatro_Notas.deps.json
+D:\Desktop\Media_de_Quatro_Notas\bin\Debug\netcoreapp3.1\Media_de_Quatro_Notas.runtimeconfig.json
+D:\Desktop\Media_de_Quatro_Notas\bin\Debug\netcoreapp3.1\Media_de_Quatro_Notas.runtimeconfig.dev.json
+D:\Desktop\Media_de_Quatro_Notas\bin\Debug\netcoreapp3.1\Media_de_Quatro_Notas.dll
+D:\Desktop\Media_de_Quatro_Notas\bin\Debug\netcoreapp3.1\Media_de_Quatro_Notas.pdb
+D:\Desktop\Media_de_Quatro_Notas\obj\Debug\netcoreapp3.1\Media_de_Quatro_Notas.csproj.AssemblyReference.cache
+D:\Desktop\Media_de_Quatro_Notas\obj\Debug\netcoreapp3.1\Media_de_Quatro_Notas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Media_de_Quatro_Notas\obj\Debug\netcoreapp3.1\Media_de_Quatro_Notas.AssemblyInfoInputs.cache
+D:\Desktop\Media_de_Quatro_Notas\obj\Debug\netcoreapp3.1\Media_de_Quatro_Notas.AssemblyInfo.cs
+D:\Desktop\Media_de_Quatro_Notas\obj\Debug\netcoreapp3.1\Media_de_Quatro_Notas.csproj.CoreCompileInputs.cache
+D:\Desktop\Media_de_Quatro_Notas\obj\Debug\netcoreapp3.1\Media_de_Quatro_Notas.dll
+D:\Desktop\Media_de_Quatro_Notas\obj\Debug\netcoreapp3.1\Media_de_Quatro_Notas.pdb
+D:\Desktop\Media_de_Quatro_Notas\obj\Debug\netcoreapp3.1\Media_de_Quatro_Notas.genruntimeconfig.cache
