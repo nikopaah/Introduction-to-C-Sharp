@@ -1,0 +1,14 @@
+C:\Users\wwwni\Downloads\hdd\Projetos\Estudo\C#\DateTime_EX01\DateTime_EX01\bin\Debug\net8.0\DateTime_EX01.exe
+C:\Users\wwwni\Downloads\hdd\Projetos\Estudo\C#\DateTime_EX01\DateTime_EX01\bin\Debug\net8.0\DateTime_EX01.deps.json
+C:\Users\wwwni\Downloads\hdd\Projetos\Estudo\C#\DateTime_EX01\DateTime_EX01\bin\Debug\net8.0\DateTime_EX01.runtimeconfig.json
+C:\Users\wwwni\Downloads\hdd\Projetos\Estudo\C#\DateTime_EX01\DateTime_EX01\bin\Debug\net8.0\DateTime_EX01.dll
+C:\Users\wwwni\Downloads\hdd\Projetos\Estudo\C#\DateTime_EX01\DateTime_EX01\bin\Debug\net8.0\DateTime_EX01.pdb
+C:\Users\wwwni\Downloads\hdd\Projetos\Estudo\C#\DateTime_EX01\DateTime_EX01\obj\Debug\net8.0\DateTime_EX01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwni\Downloads\hdd\Projetos\Estudo\C#\DateTime_EX01\DateTime_EX01\obj\Debug\net8.0\DateTime_EX01.AssemblyInfoInputs.cache
+C:\Users\wwwni\Downloads\hdd\Projetos\Estudo\C#\DateTime_EX01\DateTime_EX01\obj\Debug\net8.0\DateTime_EX01.AssemblyInfo.cs
+C:\Users\wwwni\Downloads\hdd\Projetos\Estudo\C#\DateTime_EX01\DateTime_EX01\obj\Debug\net8.0\DateTime_EX01.csproj.CoreCompileInputs.cache
+C:\Users\wwwni\Downloads\hdd\Projetos\Estudo\C#\DateTime_EX01\DateTime_EX01\obj\Debug\net8.0\DateTime_EX01.dll
+C:\Users\wwwni\Downloads\hdd\Projetos\Estudo\C#\DateTime_EX01\DateTime_EX01\obj\Debug\net8.0\refint\DateTime_EX01.dll
+C:\Users\wwwni\Downloads\hdd\Projetos\Estudo\C#\DateTime_EX01\DateTime_EX01\obj\Debug\net8.0\DateTime_EX01.pdb
+C:\Users\wwwni\Downloads\hdd\Projetos\Estudo\C#\DateTime_EX01\DateTime_EX01\obj\Debug\net8.0\DateTime_EX01.genruntimeconfig.cache
+C:\Users\wwwni\Downloads\hdd\Projetos\Estudo\C#\DateTime_EX01\DateTime_EX01\obj\Debug\net8.0\ref\DateTime_EX01.dll
